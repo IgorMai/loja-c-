@@ -1,0 +1,14 @@
+E:\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\bin\Debug\Loja Imoveis.exe.config
+E:\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\bin\Debug\Loja Imoveis.exe
+E:\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\bin\Debug\Loja Imoveis.pdb
+E:\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\obj\Debug\Loja Imoveis.csprojResolveAssemblyReference.cache
+E:\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\obj\Debug\Loja Imoveis.csproj.CoreCompileInputs.cache
+E:\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\obj\Debug\Loja Imoveis.exe
+E:\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\obj\Debug\Loja Imoveis.pdb
+C:\Users\igora\Documents\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\bin\Debug\Loja Imoveis.exe.config
+C:\Users\igora\Documents\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\bin\Debug\Loja Imoveis.exe
+C:\Users\igora\Documents\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\bin\Debug\Loja Imoveis.pdb
+C:\Users\igora\Documents\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\obj\Debug\Loja Imoveis.csprojResolveAssemblyReference.cache
+C:\Users\igora\Documents\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\obj\Debug\Loja Imoveis.csproj.CoreCompileInputs.cache
+C:\Users\igora\Documents\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\obj\Debug\Loja Imoveis.exe
+C:\Users\igora\Documents\Curso C# Programação Orientada a Objetos\Exercicios\Loja Imoveis\Loja Imoveis\obj\Debug\Loja Imoveis.pdb
